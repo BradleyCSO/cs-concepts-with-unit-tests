@@ -1,4 +1,4 @@
-﻿namespace Sandbox.Sorts
+﻿namespace Sandbox.Sorts.IComparable
 {
     /// <summary>
     /// Class which has various properties about a country, and a means to sort it via its <see cref="Word"/> property
